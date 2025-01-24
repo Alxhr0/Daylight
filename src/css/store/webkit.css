@@ -1,0 +1,11 @@
+@import url(../root.css);
+
+body.v6 {
+    font-family: "JetBrains Mono";
+}
+
+.home_page_body_ctn {
+    background-color: var(--background-darker);
+    color: var(--black);
+}
+

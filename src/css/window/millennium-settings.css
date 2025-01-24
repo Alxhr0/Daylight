@@ -1,0 +1,109 @@
+@import url(../root.css);
+
+._2kwFFHckg8jvnwJfg9-la8 {
+    background-color: var(--background-darker);
+}
+
+._1-vlriAtKYDViAEunue4VO._2DpXjzK3WWsOtUWUrcuOG7 {
+    background-color: var(--background-darker2);
+}
+
+.ModalDialogPopup .DialogContentTransition>.DialogContent {
+    top: 18px
+}
+
+.title-area-children {
+    background-color: var(--background-darker);
+}
+
+.ModalDialogPopup .ModalDialogBody.friendsui-container .PopupFullWindow .TitleBar, .ModalDialogPopup .ModalDialogBody.DesktopUI .PopupFullWindow .TitleBar {
+    background-color: var(--background-darker)
+}
+
+.ModalDialogPopup .DialogContentTransition>.DialogContent {
+    background-color: var(--background);
+}
+
+._2bl0iQ9xigbq4Zd1NI6NZl::before {
+    background: var(--blue)
+}
+
+._3epr8QYWw_FqFgMx38YEEm.DesktopUI, .DesktopUI ._3epr8QYWw_FqFgMx38YEEm {
+    background-color: var(--background-darker);
+    color: var(--black)
+}
+
+._30wJO3MC4x-I1OWpy1TAeE._DialogInputContainer {
+    background-color: var(--background-darker);
+}
+
+.DialogTextInputBase, ._DialogInputContainer {
+    background-color: var(--background-darker);
+}
+
+.ModalDialogPopup .ModalDialogBody.friendsui-container .PopupFullWindow .TitleBar, .ModalDialogPopup .ModalDialogBody.DesktopUI .PopupFullWindow .TitleBar {
+    height: calc(1rem + 18px)
+}
+
+._2bl0iQ9xigbq4Zd1NI6NZl {
+    background: var(--background-darker)
+}
+
+button.DialogButton {
+    background: var(--background-darker);
+    color: var(--black)
+}
+
+/* Text */
+
+._3few7361SOf4k_YuKCmM62 .DialogHeader.DesktopUI, .DesktopUI ._3few7361SOf4k_YuKCmM62 .DialogHeader {
+    color: var(--blue)
+}
+
+._1-vlriAtKYDViAEunue4VO._2DpXjzK3WWsOtUWUrcuOG7 {
+    color: var(--black)
+}
+
+._3fPiC9QRyT5oJ6xePCVYz8._3fPiC9QRyT5oJ6xePCVYz8.DesktopUI, .DesktopUI ._3fPiC9QRyT5oJ6xePCVYz8._3fPiC9QRyT5oJ6xePCVYz8 {
+    color: var(--black-lighter)
+}
+
+._3fPiC9QRyT5oJ6xePCVYz8._3fPiC9QRyT5oJ6xePCVYz8 {
+    font-family: "JetBrains Mono";
+}
+
+.SettingsDialogSubHeader {
+    color: var(--blue)
+}
+
+.DialogTextInputBase, ._DialogInputContainer {
+    color: var(--black)
+}
+
+._3fPiC9QRyT5oJ6xePCVYz8._3fPiC9QRyT5oJ6xePCVYz8.DesktopUI, .DesktopUI ._3fPiC9QRyT5oJ6xePCVYz8._3fPiC9QRyT5oJ6xePCVYz8 {
+    color: var(--black)
+}
+
+.DialogBody a {
+    color: var(--blue)
+}
+
+._3jMlJm4PQCA8SfNlUR99Fo {
+    color: var(--black)
+}
+
+._1W1to_azoBRG95oNAFpf9Q.DesktopUI, .DesktopUI ._1W1to_azoBRG95oNAFpf9Q {
+    color: var(--black-lighter)
+}
+
+._1-vlriAtKYDViAEunue4VO._2DpXjzK3WWsOtUWUrcuOG7 ._1rD8X96FdnksZLvRRlEiCR {
+    color: var(--black)
+}
+
+._1-vlriAtKYDViAEunue4VO ._1rD8X96FdnksZLvRRlEiCR.DesktopUI, .DesktopUI ._1-vlriAtKYDViAEunue4VO ._1rD8X96FdnksZLvRRlEiCR {
+    color: var(--black)
+}
+
+._1-vlriAtKYDViAEunue4VO {
+    color: var(--black)
+}

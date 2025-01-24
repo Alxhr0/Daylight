@@ -1,0 +1,69 @@
+{
+    "name": "Daylight",
+    "author": "Alxhr0",
+    "description": "An example template theme.",
+    "github": {
+        "owner": "alxhr0",
+        "repo_name": "infinity"
+    },
+    "header_image": "https://i.imgur.com/image_here.png",
+    "splash_image": "https://i.imgur.com/image_here.png",
+    "tags": [
+        "Example",
+        "Template"
+    ],
+    "version": "1.0.0",
+    "Steam-WebKit": "src/css/store/webkit.css",
+    "Patches": [
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "src/css/window/library.css",
+            "TargetJs": "src/js/window/library.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "src/css/window/titlebar.css",
+            "TargetJs": "src/js/window/titlebar.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "src/css/window/main-window.css",
+            "TargetJs": "src/js/window/main-window.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "src/css/window/shutdown.css",
+            "TargetJs": "src/js/window/shutdown.js"
+        },
+        {
+            "MatchRegexString": "^Steam$",
+            "TargetCss": "src/css/window/downloads.css",
+            "TargetJs": "src/js/window/downloads.js"
+        },
+        {
+            "MatchRegexString": "^Steam Settings$",
+            "TargetCss": "src/css/window/settings.css",
+            "TargetJs": "src/js/window/settings.js"
+        },
+        {
+            "MatchRegexString": "^Millennium$",
+            "TargetCss": "src/css/window/millennium-settings.css",
+            "TargetJs": "src/js/window/millennium-settings.js"
+        },
+        {
+            "MatchRegexString": "^View Root Menu$",
+            "TargetCss": "src/css/menus/viewMenu.css",
+            "TargetJs": "src/js/menus/viewMenu.js"
+        },
+        {
+            "MatchRegexString": "^Account Menu$",
+            "TargetCss": "src/css/menus/accountMenu.css",
+            "TargetJs": "src/js/menus/accountMenu.js"
+        },
+        {
+            "MatchRegexString": "^Games Root Menu$",
+            "TargetCss": "src/css/menus/gamesMenu.css",
+            "TargetJs": "src/js/menus/gamesMenu.js"
+        }
+    ]
+}

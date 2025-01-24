@@ -1,0 +1,265 @@
+@import url(../root.css);
+
+/* UI */
+
+.title-area-children {
+    background-color: var(--background-darker)
+}
+
+.ModalDialogPopup .ModalDialogBody.DesktopUI .PopupFullWindow .TitleBar._5FicoanuNlrOvwQ3dkOVm {
+    background-color: var(--background-darker);
+}
+
+.ModalDialogPopup .DialogContentTransition>.DialogContent {
+    background-color: var(--background);
+}
+
+._2kwFFHckg8jvnwJfg9-la8 {
+    background-color: var(--background-darker);
+}
+
+._30wJO3MC4x-I1OWpy1TAeE._DialogInputContainer {
+    background: var(--background-darker);
+}
+
+._1-vlriAtKYDViAEunue4VO._2DpXjzK3WWsOtUWUrcuOG7 {
+    background-color: var(--background-darker2);
+    color: var(--black);
+}
+
+._1EubJAK9z7JtdGks5M2f8t {
+    background-color: var(--background-darker2)
+}
+
+.O_nD7TklmaIZ80TPx3rjt.DialogButton._19KE2KdEXIYl3OB0p1Y59k {
+    background-color: var(--background-darker);
+    color: var(--black)
+}
+
+button.DialogButton:hover, button.DialogButton.gpfocus {
+    background: var(--background-darker2)
+}
+
+._2bl0iQ9xigbq4Zd1NI6NZl {
+    background: var(--background-darker)
+}
+
+._2bl0iQ9xigbq4Zd1NI6NZl::before {
+    background: var(--blue)
+}
+
+.ModalDialogPopup .DialogContentTransition>.DialogContent {
+    top: 25px;
+}
+
+.BRmrC-jnwpXqye4oYB21C button.DialogButton {
+    background-color: var(--background-darker);
+    color: var(--black)
+}
+
+.HijmccPB1BKyhOwhX1EVl:not(._3-_jME_xsuvgT3Dvq4bw_q)+.HijmccPB1BKyhOwhX1EVl:not(._3-_jME_xsuvgT3Dvq4bw_q)::before {
+    background-color: var(--background-darker)
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: var(--background-darker2);
+}
+
+button.DialogButton {
+    background: var(--background-darker);
+    color: var(--black);
+}
+
+._7EGqd8bdiXJBd2fj5Hh8r {
+    background-color: var(--background-darker);
+}
+
+._7EGqd8bdiXJBd2fj5Hh8r.MYyvJ6lNQZtM4MHwS {
+    background-color: var(--background-darker2)
+}
+
+/* Text */
+
+._7EGqd8bdiXJBd2fj5Hh8r ._3HgL0eRQXwU6dIEXXK6qba ._1RUoX0kTOBfqpwCaBZGDLJ {
+    color: var(--black)
+}
+
+button.DialogButton.Primary {
+    color: white;
+}
+
+._3w92Ej5Kq7nbt5WACQ6jwI.DesktopUI, .DesktopUI ._3w92Ej5Kq7nbt5WACQ6jwI {
+    color: var(--black)
+}
+
+._2Hfx7Bzi9FSN4E81QXHgnl {
+    color: var(--black)
+}
+
+._1HL6KuwUJaZQ7x2rmAxxSz.DesktopUI, .DesktopUI ._1HL6KuwUJaZQ7x2rmAxxSz {
+    color: var(--blue)
+}
+
+._1UpteyCApeHSfG-Tw-3H3m {
+    color: var(--black-lighter)
+}
+
+._2rK4YqGvSzXLj1bPZL8xMJ.DesktopUI, .DesktopUI ._2rK4YqGvSzXLj1bPZL8xMJ {
+    color: var(--blue)
+}
+
+._7EGqd8bdiXJBd2fj5Hh8r ._3HgL0eRQXwU6dIEXXK6qba ._2BdpWib8Zcj3QSkXzmGgIB {
+    color: var(--black-lighter)
+}
+
+.DialogTextInputBase, ._DialogInputContainer {
+    color: var(--black)
+}
+
+.eKmEXJCm_lgme24Fp_HWt.aIeh3X5T2M074RLW1qn6_ ._3jMlJm4PQCA8SfNlUR99Fo {
+    color: var(--red)
+}
+
+._1dFOkDnInbUQgf2eUbF2G9 {
+    color: var(--black)
+}
+
+._3epr8QYWw_FqFgMx38YEEm.DesktopUI, .DesktopUI ._3epr8QYWw_FqFgMx38YEEm {
+    color: var(--black)
+}
+._3YelWui4gQvucX_bHwvl15._1TyV26CL6Wjd3gaJsh_rpr ._1rihlgVMF4Q_fFZDnXeVt5, ._3YelWui4gQvucX_bHwvl15._1TyV26CL6Wjd3gaJsh_rpr ._5bG9Iwr014pu3H1SPRwYh, ._3YelWui4gQvucX_bHwvl15._1TyV26CL6Wjd3gaJsh_rpr svg {
+    color: var(--black)
+}
+
+._1DFCGL1HyqZkIjEaoNLdjf, ._181OY9APZJDARykJ_KOFPE {
+    color: var(--black)
+}
+
+._2n6FNLKyb6al_YPk13xS7S .d9dlNsZ74TUTz3j0b1Syi ._g4ceYb5tVuSmXg0aNEdR ._1G9v2mshuM0YQNG51iX5fH {
+    color: var(--black-lighter)
+}
+
+._2n6FNLKyb6al_YPk13xS7S .d9dlNsZ74TUTz3j0b1Syi ._g4ceYb5tVuSmXg0aNEdR svg.DesktopUI, .DesktopUI ._2n6FNLKyb6al_YPk13xS7S .d9dlNsZ74TUTz3j0b1Syi ._g4ceYb5tVuSmXg0aNEdR svg {
+    color: var(--black-lighter)
+}
+
+._2n6FNLKyb6al_YPk13xS7S .d9dlNsZ74TUTz3j0b1Syi ._g4ceYb5tVuSmXg0aNEdR ._2B8djgiwv5XCyvzl7GxWBA {
+    color: var(--black-lighter)
+}
+
+._2n6FNLKyb6al_YPk13xS7S .d9dlNsZ74TUTz3j0b1Syi ._g4ceYb5tVuSmXg0aNEdR ._3HOm6KmoXLktGGI2qrr6bu {
+    color: var(--black-lighter)
+}
+
+._181OY9APZJDARykJ_KOFPE {
+    color: var(--black-lighter)
+}
+
+.ybEU2kARViIFGigPw8VQ0 ._1LvKJs5FKB30xbur_XL2DL ._1rihlgVMF4Q_fFZDnXeVt5 {
+    color: var(--black-lighter)
+}
+
+._2n6FNLKyb6al_YPk13xS7S ._3_uaa39SNrhTAYH7hF9tbE {
+    color: var(--black)
+}
+
+._17SQWViInfB-hmYYLoK4Yw._2ddeJfhiG4hmAfqvi1FL6X {
+    color: var(--black)
+}
+
+._2n6FNLKyb6al_YPk13xS7S ._3_uaa39SNrhTAYH7hF9tbE ._3X3BBs3tVxzpy2wDfRoHwC {
+    color: var(--black-lighter)
+}
+
+._2n6FNLKyb6al_YPk13xS7S .d9dlNsZ74TUTz3j0b1Syi .YxhO6W2VNKG69k4WqIrip {
+    color: var(--black)
+}
+
+._2n6FNLKyb6al_YPk13xS7S ._3vHX3wZSMEfQYNhAjbu0RB .mohK9opGjpCsWNdUuJuFE {
+    color: var(--black-lighter)
+}
+
+._1ifM6luJEQ5H2O1Y3S6F_R {
+    color: var(--black)
+}
+
+.ModalPosition_Content {
+    color: var(--black)
+}
+
+._3fPiC9QRyT5oJ6xePCVYz8._3fPiC9QRyT5oJ6xePCVYz8.DesktopUI, .DesktopUI ._3fPiC9QRyT5oJ6xePCVYz8._3fPiC9QRyT5oJ6xePCVYz8 {
+    color: var(--black)
+}
+
+.DialogBody a {
+    color: var(--blue)
+}
+
+._1PBuyc38k9xkUt4KB_lXh-  {
+    color: var(--black)
+}
+
+._1W1to_azoBRG95oNAFpf9Q.DesktopUI, .DesktopUI ._1W1to_azoBRG95oNAFpf9Q {
+    color: var(--black)
+}
+
+.SettingsDialogSubHeader {
+    color: var(--blue)
+}
+
+._33Q-MOeBz52WPV0tuTqKy._33Q-MOeBz52WPV0tuTqKy {
+    color: var(--black)
+}
+
+._3few7361SOf4k_YuKCmM62 .DialogHeader.DesktopUI, .DesktopUI ._3few7361SOf4k_YuKCmM62 .DialogHeader {
+    color: var(--black)
+}
+
+._3epr8QYWw_FqFgMx38YEEm.DesktopUI, .DesktopUI ._3epr8QYWw_FqFgMx38YEEm {
+    background-color: var(--background-darker);
+}
+
+.JA6JIY08WWMEfWP-sZkZ2.DesktopUI, .DesktopUI .JA6JIY08WWMEfWP-sZkZ2 {
+    background-color: var(--background-darker);
+}
+
+button.TEWmsM70ZLEOxLAjDMpcv svg {
+    color: var(--black)
+}
+
+button.TEWmsM70ZLEOxLAjDMpcv ._3wadwgMy2-9k8uOKh3iSdT {
+    color: var(--black)
+}
+
+button.TEWmsM70ZLEOxLAjDMpcv ._3Wb9yDmYPUJksCr7HmaT9H {
+    color: var(--black)
+}
+
+._3jMlJm4PQCA8SfNlUR99Fo {
+    color: var(--black)
+}
+
+._3qIXY674NedSZNa-CXtNlt {
+    color: var(--black)
+}
+
+.online ._2Ri005Wg_uXDTa71kdRbcN, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a:hover, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a:active, .online ._1cB0qtF0paHWWyj1XNcnbG._2Ri005Wg_uXDTa71kdRbcN a:visited {
+    color: var(--bright-cyan)
+}
+
+.online .nOdcT-MoOaXGePXLyPe0H {
+    color: var(--bright-blue)
+}
+
+._2rjVTGz8aLvqOdz5v2gq5C {
+    color: var(--bright-blue)
+}
+
+._1-vlriAtKYDViAEunue4VO {
+    color: var(--black)
+}
+
+._1-vlriAtKYDViAEunue4VO ._1rD8X96FdnksZLvRRlEiCR.DesktopUI, .DesktopUI ._1-vlriAtKYDViAEunue4VO ._1rD8X96FdnksZLvRRlEiCR {
+    color: var(--black)
+}
+
